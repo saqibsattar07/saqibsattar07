@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saqib Sattar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding"width=400 src="https://www.google.com/search?q=coding+gif+animated&sca_esv=4a5a031700450f0f&udm=2&biw=1366&bih=599&sxsrf=ACQVn09KMAuFSvsuRS6Oa1TRxzc1guM07w%3A1711560373473&ei=tVYEZsPBHMGIi-gP5aOW-A8&oq=coding+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmNvZGluZyBnaWYqAggBMgQQIxgnMgUQABiABDIFEAAYgAQyChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARInhRQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAJgCAaACGJgDAIgGAZIHATGgBwA&sclient=gws-wiz-serp#vhid=35X6L1D39_KDvM&vssid=mosaic">
+<img align="right" alt="coding"width=400 src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibsattar07&label=Profile%20views&color=0e75b6&style=flat" alt="saqibsattar07" /> </p>
 
