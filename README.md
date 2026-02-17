@@ -1,16 +1,16 @@
 ![logo](https://github.com/saqibsattar07/saqibsattar07/blob/main/web%20developer.png)
 <h1 align="center">Hi 👋, I'm Saqib Sattar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">FullStack and Agentic AI Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibsattar07&label=Profile%20views&color=0e75b6&style=flat" alt="saqibsattar07" /> </p>
 
-- 🌱 I’m currently learning **TypeScript Frontend and Python Backend**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Next.js**
+- 💬 Ask me about **Agents**
 
-- 📫 How to reach me **khaskhelisaqib566@gmail.com**
+- 📫 How to reach me **saqibsattar944@gmail.com**
 
 - ⚡ Fun fact **Iam little bit Naughty 😂**
 
